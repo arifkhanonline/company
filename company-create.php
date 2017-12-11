@@ -15,7 +15,6 @@ function ifm_company_create() {
     $mission_statements = $_POST["mission_statements"];
     $awards = $_POST["awards"];
     $about = $_POST["about"];
-	$a
    
     //insert
     if (isset($_POST['insert'])) {
